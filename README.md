@@ -3,7 +3,7 @@ I am a research assistant at the Zurich University of Applied Sciences who loves
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SDC-Scissor in the context of COSMOS (EU Horizon 2020 Project).
+- 🔭 I’m currently working on SDC-Scissor in the context of [COSMOS](https://www.cosmos-devops.org/) (EU Horizon 2020 Project).
 - 🤔 I’m looking for help with maintaining my tools, especially SDC-Scissor.
 - 💬 Ask me about anything about my repositories or related research if you are curious.
 - 📫 How to reach me: see my contact details on https://ChristianBirchler.github.io
