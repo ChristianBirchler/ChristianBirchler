@@ -6,6 +6,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SDC-Scissor in the context of [COSMOS](https://www.cosmos-devops.org/) (EU Horizon 2020 Project).
 - 🤔 I’m looking for help with maintaining my tools, especially SDC-Scissor.
 - 💬 Ask me about anything about my repositories or related research if you are curious.
-- 📫 How to reach me: see my contact details on https://ChristianBirchler.github.io
-- ⚡ Fun fact: The first confirmed incident of a computer bug was reported 3:45 PM on 9th September, 1947.
-
+- 📫 How to reach me: see my contact details on https://christianbirchler.org
