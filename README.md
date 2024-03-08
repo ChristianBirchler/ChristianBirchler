@@ -1,5 +1,5 @@
 ### Welcome on my GitHub Portfolio 👋
-I am a research assistant at the Zurich University of Applied Sciences who loves to conduct research for the software engineering community by providing usable open-source software. Look at my pinned repositories below which are the most used tools from my GitHub. Feel free to share the software and create issues or contribute with code to one of my repositories. For further details on my research you may take a look at my website: https://ChristianBirchler.github.io
+I am a research assistant at the Zurich University of Applied Sciences who loves to conduct research for the software engineering community by providing usable open-source software. Look at my pinned repositories below which are the most used tools from my GitHub. Feel free to share the software and create issues or contribute with code to one of my repositories. For further details on my research you may take a look at my website: https://christianbirchler.org
 
 Here are some ideas to get you started:
 
